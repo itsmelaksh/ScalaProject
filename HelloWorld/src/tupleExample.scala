@@ -5,7 +5,6 @@ object tupleExample extends App {
 
   class Animal(var name: String, var sound: String){
 
-
 //    override def toString = s"Animal($name, $sound)"
   }
 }
